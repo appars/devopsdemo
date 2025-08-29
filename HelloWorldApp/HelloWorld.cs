@@ -5,6 +5,6 @@ class HelloWorld
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, Akhila, All the Best!");
+        Console.WriteLine("Hello, Akhila, Best Wishes!");
     }
 }
